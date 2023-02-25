@@ -1,12 +1,16 @@
 body {
-    background-color: #F9FAFC;
+    background-color: #000;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    text-transform: uppercase;
+
 }
 
 .brand {
-    font-family: Lato, sans-serif;
-    font-size: 1.4rem;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 1.6rem;
     font-weight: 700;
     color: #4A4A4F;
+    text-transform: uppercase;
 }
 
 .red-o {
@@ -18,20 +22,20 @@ body {
 }
 
 .light-bg {
-    background-color: #fff;
+    background-color: #000;
 }
 
 .dark-bg {
-    background-color: #445261;
+    background-color: #000;
 }
 
 .main-bg {
-    background-color: #F9FAFC;
+    background-color: #000;
 }
 
 .card {
     border: none;
-    background-color: transparent;
+    background-color: #000;
 }
 
 .image-container {
@@ -43,13 +47,12 @@ body {
     bottom: 5%;
     min-width: 30%;
     left: -2px;
-    background-color: #23BBBB;
+    background-color: #000;
 }
 
 .author {
-    color: white;
+    color: #000;
     margin: 4px;
-    text-transform: uppercase;
 }
 
 .masthead {
@@ -62,7 +65,7 @@ body {
 }
 
 .masthead-text {
-    background-color: #445261;
+    background-color: #000;
     color: white;
     position: relative;
 }
@@ -107,7 +110,7 @@ body {
 }
 
 .btn-signup {
-    background-color: #23BBBB;
+    background-color: #000;
     color: #fff;
 }
 
@@ -118,7 +121,7 @@ body {
 }
 
 .link {
-    color: #23BBBB;
+    color: #000;
     text-decoration: none;
 }
 
@@ -129,14 +132,14 @@ body {
 }
 
 .btn-like {
-    color: #E84610;
+    color: #000;
     border: none;
     background: transparent;
 }
 
 .btn-like:hover,
 .btn-like:active {
-    color: #E84610;
+    color: #000;
     background: transparent;
     border: none;
 }
